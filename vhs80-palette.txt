@@ -1,0 +1,43 @@
+VHS80 Color Palette
+| Name | Hex | Usage |
+|------|-----|-------|
+| bg0 | #0D0D0D | Extreme darkest (terminal black) |
+| bg1 | #121212 | Main background (editor, UI) |
+| fg0 | #FFFFFF | Maximum contrast (headings) |
+| fg1 | #EAEAEA | Primary text |
+| fg2 | #BEBEBE | Secondary text |
+| fg3 | #8A8A8D | Muted/line numbers |
+| selbg | #262626 | Selection |
+| color1 | #862020 | Error (red) |
+| color2 | #A85511 | Orange accent |
+| color3 | #2F8383 | Teal accent |
+| color4 | #8B7F2E | Gold accent |
+| color5 | #F87171 | Coral (debug only) |
+| color6 | #277D46 | Green |
+| uic1 | #5C6370 | Borders/guides |
+---
+Syntax Highlighting
+| Element | Color |
+|---------|-------|
+| Keywords | Teal #2F8383 |
+| Classes/Types | Green #277D46 |
+| Functions | Gold #8B7F2E |
+| Numbers/Constants | Orange #A85511 |
+| Strings | Gray #BEBEBE |
+| Variables | Light #EAEAEA |
+| Comments | Muted #8A8A8D |
+| Tags | Teal #2F8383 |
+---
+UI Colors
+| Element | Color |
+|---------|-------|
+| Editor background | #121212 |
+| Activity/Side bar | #121212 |
+| Status/Title bar | #121212 |
+| Tabs | #121212 |
+| Active tab border | Orange #A85511 |
+| Active line | #212121 |
+| Selection | #262626 |
+| Borders | #333333 |
+| Scrollbar | #33333380 |
+| Debug icons | Coral #F87171 |
